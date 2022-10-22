@@ -12,7 +12,7 @@ The following table summarizes June's temperature statistics over several years:
 
 The next table summarizes December's temperature statistics over several years:
 
-
+https://github.com/SThieshen/surfs_up/blob/main/Dec_weather.png.png
 
 These two tables tell us about the differing weather patterns for the two monthly periods. Some takeaways:
 1.	Average temperature between June and December is 75 and 71 degrees respectively, show a moderate temperature and very little fluctuation between the two periods from an average standpoint.
