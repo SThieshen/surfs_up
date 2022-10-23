@@ -22,4 +22,5 @@ These two tables tell us the differing weather patterns for the two monthly peri
 ## Summary
 
 Overall, the weather in June and December are historically similar in comparison, although December has more deviations in temperature-the high being close to June's, but its low well below June's.
+
 Additional queries that could be run include: Precipitation differences between June and December to determine if one has more rainy weather and comparisons by weather station, as we may see higher/lower temperatures and precipitation levels at various locations. The weather station closest to our prospective location would be of the highest interest to us, which would narrow down the results and provide the best data for us to consider.
